@@ -4,7 +4,7 @@ body {
 
 .hero {
     min-height: 100vh;
-    background: url('/GRUPO-JJAL/website/assets/img/bg.jpg') center center / cover no-repeat;
+    background: url(/website/assets/img/bg.jpg) center center / cover no-repeat;
     display: flex;
     align-items: center;
 }

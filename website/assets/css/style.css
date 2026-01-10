@@ -1,3 +1,10 @@
-body{
+body {
     background: #BDBDBD;
+}
+
+.hero {
+    min-height: 100vh;
+    background: url('/GRUPO-JJAL/website/assets/img/bg.jpg') center center / cover no-repeat;
+    display: flex;
+    align-items: center;
 }
